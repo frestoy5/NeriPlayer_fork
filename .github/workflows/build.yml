@@ -1,4 +1,4 @@
-name: Build AndroidOK APK
+name: Build nerplayerDebug APK
 
 on:
   push:
